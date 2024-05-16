@@ -1,0 +1,33 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10%;
+}
+
+.div-lampada {
+    width: 70%;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-lampada {
+    width: 30%;
+    height: 30%;
+}
+
+.div-botoes{
+    width: 30%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#botaoLigar, #botaoDesligar{
+    width: 30%;
+    height: 30%;
+}
